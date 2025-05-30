@@ -1,7 +1,7 @@
 # EEE4114F Machine Learning Human Activity Recognition RMTDIC001 & NGMPHI006
 
 ## Description
-This project is centred around the development and design of a human recognition machine learning model for EEE4114F.
+This project is centred around the development and design of a human activity recognition machine learning model for EEE4114F.
 
 
 ## Installation
