@@ -20,7 +20,6 @@ This project is actively under developement.
 Authors:
 * Dichochi Ramotlou
 * Philasande Ngema
-* Tohlang Rakhapu
 
 
 ## License
